@@ -1,0 +1,39 @@
+
+/* input box section start hers  */
+.input_box_section{
+    margin: 5px 0;
+}
+
+.input_box{
+    width: 100%;
+    padding: 8px 0;
+}
+
+
+/* add a card section start here  */
+
+.add_a_card{
+    display: grid;
+    place-items: center;
+    margin: 5px 0;
+}
+
+.card_btn{
+    width: 100%;
+    padding: 8px 0;
+    background-color: #bfa2a2;
+    border-color: #bfa2a2;
+}
+
+.card_btn:hover{
+    background-color:dimgray;
+    border-color: white;
+}
+/* card button section ends here  */
+
+.input_btn_X{
+    /* padding: 0 5px; */
+    margin: 5px 10px;
+    background-color: #bfa2a2;
+    /* border-color: #bfa2a2; */
+}

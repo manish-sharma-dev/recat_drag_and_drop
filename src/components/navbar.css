@@ -1,0 +1,21 @@
+.navbar{
+    background-color: bisque;
+    color: black;
+    height: 100%;
+    padding : 0 10vw ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_btn{
+    padding: 4px 10px;
+    height: 30px;
+    margin: 10px;
+    /* border-radius: 3px; */
+    /* border-style: hidden; */
+
+}
+
+.nav_para{
+    text-align: center;
+}

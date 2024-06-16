@@ -1,0 +1,59 @@
+.main{
+    background-color: darkolivegreen;
+    padding: 10px 20px;
+    height:89.8vh;
+}
+
+.main_container{
+    background-color: dimgrey;
+    width: 20vw;
+    height:max-content;
+    padding: 10px 16px;
+}
+
+.main_info{
+    margin: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_info_para{
+    font-size: 15px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.main_info_btn{
+    padding: 0 10px;
+    transition: linear 5ms;
+}
+
+.main_info_btn:hover{
+    background-color: darkslategrey;
+    opacity: 0.6;
+}
+
+/* heading section start heres  */
+
+.heading{
+    background-color:#bfa2a2;
+    display: flex;
+    justify-content: space-between;
+    /* margin: -7px 8px; */
+    padding: 0 20px;
+}
+
+.heading_1_para{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.heading_btn{
+    padding: 0 10px;
+    transition: linear 5ms;
+}
+
+.heading_btn:hover{
+    background-color: darkslategrey;
+    opacity: 0.6;
+}
